@@ -1,4 +1,4 @@
 # Introduction
- This repository includes knowledge about frontend and backend knowledge, exercises, small demos, and projects
+ This repository includes knowledge about frontend and backend knowledge, exercises, small demos, frameworks, and projects
  
  Updating.....
